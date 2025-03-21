@@ -12,7 +12,7 @@ namespace Task.Application.Queries
         public string? SortDirection {  get; set; }
         public DateTime? From { get; set; }
         public DateTime? To { get; set; }
-        public int Draw { get; set; }
+        public int Draw { get; set; } = 0;
 
 
     }
