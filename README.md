@@ -14,7 +14,8 @@ This project is built using the following tools:
 - **Database**: SQL Server
 - **Architecture**: N-Tier Architecture
 - **Design patterns** : CQRS , Dependency Injection
-- **Secure** : JWT For APIs , Identity for Web 
+- **Secure** : JWT For APIs , Identity for Web
+- **Front end** : jQuery, Data Table Library, Ajax Call .
 - **API Documentation**: Swagger (Swashbuckle)
 - **Version Control**: Git & GitHub
 - **IDE**: Visual Studio 2022 ,PostMan
